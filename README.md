@@ -26,4 +26,6 @@ Permite autenticar un usuario en el sistema.
 - Error en la autenticación
 
 ## Autor
+
 Gabriel Rojas
+
